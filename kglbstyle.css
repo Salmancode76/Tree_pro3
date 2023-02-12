@@ -1,0 +1,20 @@
+body{
+	background-color: rgb(0, 0, 0);
+
+}
+.full{
+	text-align: center;
+	color:forestgreen;
+	font-family:"Press Start 2P";
+	font-style: italic;
+}
+#submit{
+	background-color: forestgreen;
+	color: Black;
+	width:200px ;
+}
+#home{
+	color:forestgreen;
+	font-family:"Press Start 2P";
+	font-style: italic;
+}
